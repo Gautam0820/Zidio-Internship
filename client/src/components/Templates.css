@@ -1,0 +1,43 @@
+.templates-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.templates-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.template-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 250px;
+}
+
+.template-image {
+  width: 100%;
+  height: auto;
+}
+
+.template-info {
+  padding: 10px;
+}
+
+.template-info h2 {
+  margin: 10px 0;
+}
+
+.select-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.select-button:hover {
+  background-color: #0056b3;
+}

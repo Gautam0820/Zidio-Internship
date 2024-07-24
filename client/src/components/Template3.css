@@ -1,0 +1,36 @@
+.template3-container {
+    font-family: 'Verdana', sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: #006400;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 1em;
+    color: #333;
+  }
+  
+  p, li {
+    font-size: 1em;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 0.5em 0;
+  }
+  
